@@ -5,7 +5,7 @@ Soy un **Desarrollador Full Stack** y recientemente graduado en la carrera de **
 ---
 
 ### 🛠️ Tecnologías y Aprendizaje
-- **💻 Actualmente aprendiendo:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) → Aprendiendo a contenedorizar aplicaciones y gestionar entornos.
+- **💻 Actualmente aprendiendo:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) → Aprendiendo a contenerizar aplicaciones y gestionar entornos.
 - **🌐 Frontend:** - Experiencia inicial con ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) y ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) usando **TypeScript**.
 - **⚙️ Backend:**
   - ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-512BD4?style=flat&logo=dotnet&logoColor=white) → Desarrollo de lógica de negocio y APIs.
